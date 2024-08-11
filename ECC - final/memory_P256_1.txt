@@ -1,0 +1,10 @@
+encrypt,99,95608
+decrypt,112,8291704
+encrypt,99,154104
+decrypt,112,6910488
+encrypt,99,98680
+decrypt,112,7191680
+encrypt,99,99200
+decrypt,112,7186160
+encrypt,99,95160
+decrypt,112,6741976
